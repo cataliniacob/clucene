@@ -177,7 +177,7 @@ public:
 		if ( _this::dk || _this::dv )
 			_this::remove(k);
 
-		(*this)[k] = v;;
+		(*this)[k] = v;
 	}
 
 };
@@ -211,7 +211,7 @@ public:
 		if ( _this::dk || _this::dv )
 			_this::remove(k);
 
-		(*this)[k] = v;;
+		(*this)[k] = v;
 	}
 
 };
@@ -246,7 +246,7 @@ public:
 		if ( _this::dk || _this::dv )
 			_this::remove(k);
 
-		(*this)[k] = v;;
+		(*this)[k] = v;
 	}
 
 };
@@ -281,7 +281,7 @@ public:
 		if ( _this::dk || _this::dv )
 			_this::remove(k);
 
-		(*this)[k] = v;;
+		(*this)[k] = v;
 	}
 
 };
